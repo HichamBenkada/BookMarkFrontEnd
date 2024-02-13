@@ -68,7 +68,8 @@ function App() {
               <div
                 key={b._id}
                 style={{
-                  border: "2px solid white",
+                  border: "2px solid blue",
+                  borderRadius: "10px",
                   margin: "5px",
                   padding: "10px",
                 }}

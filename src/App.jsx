@@ -8,7 +8,7 @@ function App() {
   const desRef = useRef(null)
   const linkRef = useRef(null)
 
-  const BASE_URL = "https://bookmarkbackend-8k1y.onrender.com"
+  const BASE_URL = "https://bookmarkbackend-8k1y.onrender.com/"
 
   useEffect(() => {
 
